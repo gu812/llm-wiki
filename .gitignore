@@ -5,5 +5,5 @@
 # raw/ 放的是第三方原文，不随公开仓库分发，只在本地保留。
 # 结构说明见 raw/README.md。
 raw/*
-!raw/README.md
+!raw/资料说明.md
 !raw/assets/
